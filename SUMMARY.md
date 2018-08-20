@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Стимул - это платформа JavaScript со скромными амбициями.](README.md)
 
